@@ -18,7 +18,3 @@ A simple and interactive **To-Do List** built with **HTML, CSS, and JavaScript**
 3. Start adding and managing your tasks!
 
 ---
-
-## Author
-Aysha Naza KP  
-GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
